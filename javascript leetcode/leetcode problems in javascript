@@ -1,3 +1,5 @@
+//Need to find the number of segments
+//leetcode 434th sum
 let s="hi iam busy";
     if(s.length==0){
     console.log(0);
