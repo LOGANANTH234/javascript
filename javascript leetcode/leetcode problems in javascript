@@ -1,0 +1,18 @@
+let s="hi iam busy";
+    if(s.length==0){
+    console.log(0);
+     }
+   
+s =s.split(" ");
+ let count=0;
+for(let i =0;i<s.length;i++){
+if(s[i]=='')
+ count++
+}
+ console(s.length-count);
+
+
+
+
+
+
